@@ -1,7 +1,7 @@
 {
 	"name": "landing-pg",
 	"version": "0.1.0",
-	"homepage": "https://CrystalYM.github.io/Landingpage",
+	"homepage": "https://CrystalYM.github.io/LandingPage",
 	"private": true,
 	"dependencies": {
 		"@testing-library/jest-dom": "^5.16.4",
